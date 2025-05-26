@@ -1,0 +1,11 @@
+Model Information:
+* title:	PirateShip
+* source:	https://sketchfab.com/3d-models/pirateship-22af9dfb83d041cbadf76e239563d3f9
+* author:	Kaspian.Seppanen (https://sketchfab.com/Kaspian.Seppanen)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PirateShip" (https://sketchfab.com/3d-models/pirateship-22af9dfb83d041cbadf76e239563d3f9) by Kaspian.Seppanen (https://sketchfab.com/Kaspian.Seppanen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
